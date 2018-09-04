@@ -1,0 +1,3 @@
+#Trade-off#A trade-off (or tradeoff) is a situation that involves losing one quality or aspect of something in return for gaining another quality or aspect.
+
+#out of the box#An out of the box feature or functionality, particularly in software, is a feature or functionality of a product that works immediately after installation without any configuration or modification. For instance, if connecting to the internet through wifi immediately after installing the operating system requires no driver installation or configuring, the wifi is said to "work out of the box". This is an important distinction, since several wifi adapters do not necessarily function properly without some user participation in installation or setup.
