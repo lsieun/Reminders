@@ -21,3 +21,5 @@ Fate transpires but once.
 人一定要做两件事，就是防患于未然和豁达大度，前者是为了使自己避免遭受痛苦和损失，后者就是为了避免纷争和冲突。
 
 期望在身上，梦想在流浪
+
+When I was young and free and my imagination had no limits, I dreamed of changing the world. As I grew older and wiser, I discovered the world would not change, so I shortened my sights somewhat and decided to change only my country. But it, too, seemed immovable. As I grew into my twilight years, in one last desperate attempt, I settled for changing only my family, those closest to me, but alas, they would have none of it. And now, as I lie on my deathbed, I suddenly realize: If I had only changed myself first, then by example I would have changed my family. From their inspiration and encouragement, I would then have been able to better my country, and who knows, I may have even changed the world.

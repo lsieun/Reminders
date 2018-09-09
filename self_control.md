@@ -23,3 +23,5 @@ Trouble is a friend of me! Don't be afraid of any moment that you have. Lift goe
 心虚明理，心实却欲
 心不可不虚，虚则义理来居；
 心不可不实，实则物欲不入。
+
+上士聞道勤而行之。中士聞道若存若亡。下士聞道大笑之。不笑不足以為道。
